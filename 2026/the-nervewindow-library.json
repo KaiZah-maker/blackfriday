@@ -1,0 +1,14 @@
+{
+  "name": "The NerveWindow Library",
+  "url": "https://nervewindow.com/library/",
+  "description": "Every app and card deck by Alex Zah in one account: 25 small apps for hard moments, like a tense evening or a difficult talk with a partner",
+  "category": "lifestyle",
+  "platforms": ["web", "ios", "android"],
+  "deal": "80% off: all 25 apps and card decks for $97, one payment, lifetime",
+  "pricing": "lifetime",
+  "price": { "regular": 477, "sale": 97, "currency": "USD" },
+  "discount": 80,
+  "startDate": "2026-11-16",
+  "endDate": "2026-12-01",
+  "icon": "https://nervewindow.com/nerve-window-checkout/app-icon-192.png"
+}
